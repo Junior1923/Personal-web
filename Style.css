@@ -1,0 +1,14 @@
+.circular {
+    border-radius: 50%;
+  }
+  body{
+    background-color: darkcyan;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: large;
+
+  }
+h2{
+  background-color: grey;
+  margin-left: 500px;
+  margin-right: 500px;
+}
